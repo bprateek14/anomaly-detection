@@ -6,4 +6,4 @@ Implementing kedro framework for detecting anomalies in logs.
 2. Run `pip install -r requirements.txt`.
 3. Run `kedro run`.
 4. to visualize the process flow, run `kedro viz`.
-5. Code can be found in the `src` folder. Please look `pipeline` and `node` files in `src/pipelines/dataprocessing` and `src/pipelines/datascience`.
+5. Code can be found in the `src` folder. Please look for `pipeline.py` and `node.py` files in `src/pipelines/dataprocessing` and `src/pipelines/datascience`.
